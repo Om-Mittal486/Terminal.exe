@@ -10,7 +10,7 @@
 
                                    ░▒▓█  T E R M I N A L . E X E  █▓▒░
 
-              A retro horror terminal adventure in text and terror.
+                          A retro horror terminal adventure in text and terror.
 ```
 
 ---
