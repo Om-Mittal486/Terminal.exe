@@ -141,6 +141,18 @@ Some choices may lock you into an ending.
 
 <hr>
 
+<h2>📸 SCREENSHOTS</h2>
+
+<table>
+  <tr>
+    <td><img src="screenshots/1.png" width="100%" alt="Screenshot 1"></td>
+    <td><img src="screenshots/2.png" width="100%" alt="Screenshot 2"></td>
+    <td><img src="screenshots/3.png" width="100%" alt="Screenshot 3"></td>
+    <td><img src="screenshots/4.png" width="100%" alt="Screenshot 4"></td>
+  </tr>
+</table>
+
+
 <blockquote>
 <b>"Welcome back, user.<br>
 You never left."</b><br><br>
