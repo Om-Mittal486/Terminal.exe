@@ -1,3 +1,4 @@
+# terminal.exe
 
 ```
 ████████╗███████╗██████╗ ███╗   ███╗ █████╗ ███╗   ██╗██╗ █████╗ ██╗          ███████╗██╗  ██╗███████╗
@@ -26,13 +27,13 @@ The screen flickers. You type. The terminal answers. Will you survive its memory
 
 ## 🎮 FEATURES
 
-- ⌨️ Full keyboard-controlled gameplay
-- 💀 10 mysterious, branching endings
-- 🔊 Retro **typing sound effects**
-- 📜 Typewriter-style story reveal
-- 🔁 Go `back` to the last decision
-- ❌ No traditional UI — only scripts and text
-- 🚪 Seamless scene transitions via keystrokes
+- ⌨️ Full keyboard-controlled gameplay  
+- 💀 10 mysterious, branching endings  
+- 🔊 Retro **typing sound effects**  
+- 📜 Typewriter-style story reveal  
+- 🔁 Go `back` to the last decision  
+- ❌ No traditional UI — only scripts and text  
+- 🚪 Seamless scene transitions via keystrokes  
 
 ---
 
@@ -52,21 +53,21 @@ The screen flickers. You type. The terminal answers. Will you survive its memory
 
 ## 🔧 INSTALLATION
 
-1. Clone or download this repository.
-2. Open the project in **Unity 2021 or later**.
-3. Press **Play** or build the game for your OS.
+1. Clone or download this repository.  
+2. Open the project in **Unity 2021 or later**.  
+3. Press **Play** or build the game for your OS.  
 4. Stare into the glow of `terminal.exe`...
 
 ---
 
-## 🧠 DEVELOPMENT
+## 🛠 DEVELOPMENT
 
-- **Engine**: Unity (C#)
-- **Font**: Courier/Terminal-style via TMP
-- **Sound**: Free mechanical key sounds
-- **No UI**: Entirely script-driven interface
+- **Engine**: Unity (C#)  
+- **Font**: Courier/Terminal-style via TMP  
+- **Sound**: Free mechanical key sounds  
+- **No UI**: Entirely script-driven interface  
 
-Scripts used:
+Scripts used:  
 - `TerminalGame.cs` — Core game logic and story handling  
 - `SoundManager.cs` — Plays typing & input sounds  
 - `StoryNode.cs` — Data structure for text branches  
@@ -75,18 +76,18 @@ Scripts used:
 
 ## 📖 TIPS
 
-- Use `back` if you regret a choice.
-- Try different keywords — some are unexpected.
+- Use `back` if you regret a choice.  
+- Try different keywords — some are unexpected.  
 - Find all 10 endings to complete the story.
 
 ---
 
 ## ⚠️ CONTENT WARNING
 
-This game contains:
-- Psychological horror
-- Claustrophobic themes
-- Existential dread
+This game contains:  
+- Psychological horror  
+- Claustrophobic themes  
+- Existential dread  
 
 Please play at your own discretion.
 
@@ -97,7 +98,7 @@ Please play at your own discretion.
 - 👾 Code & Design: [Your Name]  
 - 💬 Inspiration: Retro terminal systems, SCP, analog horror  
 - 🔊 Sounds: Free sound libraries (freesound.org, etc.)  
-- 🧠 Special thanks: You, the curious player
+- 🧠 Special thanks: You, the curious player  
 
 ---
 
@@ -106,6 +107,13 @@ Please play at your own discretion.
 ```bash
 terminal.exe v1.0.0
 ```
+
+---
+
+## ▶️ PLAY & SHARE
+
+Check out and play **terminal.exe** on itch.io:  
+**https://lucifer-playz.itch.io/terminalexe**
 
 ---
 
