@@ -51,10 +51,6 @@ Every path is a story. Every ending, a warning.
       <td><code>restart</code></td>
       <td>Restart the game</td>
     </tr>
-    <tr>
-      <td><code>quit</code></td>
-      <td>Exit game (build only)</td>
-    </tr>
   </tbody>
 </table>
 
@@ -89,7 +85,6 @@ Some choices may lock you into an ending.
 <ul>
   <li><code>TerminalGame.cs</code> — Core game logic and story handling</li>
   <li><code>SoundManager.cs</code> — Plays typing & input sounds</li>
-  <li><code>StoryNode.cs</code> — Data structure for text branches</li>
 </ul>
 
 <hr>
@@ -120,9 +115,9 @@ Some choices may lock you into an ending.
 <h2>🧟 CREDITS</h2>
 
 <ul>
-  <li>👾 <b>Code & Design</b>: [Your Name]</li>
+  <li>👾 <b>Code & Design</b>: Om Mittal aka Lucifer </li>
   <li>💬 <b>Inspiration</b>: Retro terminal systems, SCP, analog horror</li>
-  <li>🔊 <b>Sounds</b>: Free sound libraries (freesound.org, etc.)</li>
+  <li>🔊 <b>Sounds</b>: Free sound libraries (pixabay.com, mixkit.co, etc.)</li>
   <li>🧠 <b>Special thanks</b>: You, the curious player</li>
 </ul>
 
